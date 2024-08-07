@@ -1,0 +1,22 @@
+/* CustomerAttrition.css */
+
+.customer-retention {
+    padding: 20px;
+  }
+  
+  .customer-retention .ant-upload {
+    margin-top: 20px;
+  }
+  
+  .summary-report {
+    margin-top: 20px;
+  }
+  
+  .summary-report .ant-typography {
+    margin: 4px 0;
+  }
+  
+  .ant-btn {
+    margin-right: 10px;
+  }
+  
